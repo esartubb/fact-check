@@ -30,4 +30,7 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  service_name: "Fact Check"
+  users_index_title: "Users"
+  log_in: "Log in"
+  log_out: "Log out"
